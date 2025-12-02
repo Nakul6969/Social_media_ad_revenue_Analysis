@@ -1,1 +1,1 @@
-This project analyzes an advertising dataset to understand how different marketing channels (TV, Billboards, Google Ads, Social Media, Influencer Marketing, Affiliate Marketing) relate to product sales, to derive actionable insights, and to build a dashboard (Power BI) that visualizes performance and KPIs.
+This project analyzes an advertising dataset to understand how different marketing channels 
